@@ -1,14 +1,14 @@
 # REU Student Information 2018
 
-![picture](https://github.com/emailcausey/2018_REU/blob/master/SDO.png)
-
-Solar Dynamics Observatory
-
 Welcome to the 2018 REU Summer Student Program!
 
 This repository was created to manage the work for the student project: 
 
 **Machine Learning for the Prediction of Solar Flares**
+
+![picture](https://github.com/emailcausey/2018_REU/blob/master/SDO.png)
+
+*Solar Dynamics Observatory*
 
 ## Purpose of the Project
 Radiation from solar magnetic eruptions has the potential to disrupt telecommunications, power grids, navigation systems, and satellites. These eruptions often originate from active regions in the sun where concentrated areas of highly complex magnetic field configurations suddenly change. Active regions of the sun are currently characterized using the McIntosh classification system manually by experts in the field. This is an arduous and subjective task.
