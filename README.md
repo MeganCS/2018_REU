@@ -42,3 +42,9 @@ There is a lot to do! Here is a rough idea of what to expect each week.
 **Week 9**
 
 **Week 10**
+
+##Background Reading
+
+The following papers have some key information related to this project:
+
+[Github pages](https://pages.github.com)
