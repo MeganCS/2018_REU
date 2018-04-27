@@ -1,3 +1,3 @@
 # 2018_REU
 
-![picture](2018_REU/SDO.png "Description goes here")
+![picture](https://github.com/emailcausey/2018_REU/blob/master/SDO.png)
