@@ -24,12 +24,21 @@ The proposed REU student summer project will strive to automate the McIntosh cla
 There is a lot to do! Here is a rough idea of what to expect each week.
 
 **Week 1**
+
 **Week 2**
+
 **Week 3**
+
 **Week 4**
+
 **Week 5**
+
 **Week 6**
+
 **Week 7**
+
 **Week 8**
+
 **Week 9**
+
 **Week 10**
