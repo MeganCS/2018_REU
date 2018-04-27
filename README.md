@@ -53,6 +53,14 @@ The following papers have some key information related to this project:
 
 [Nishizuka, N. et al., 2017](https://arxiv.org/abs/1611.01791)
 
+## Resources for Machine Learning
+
+### What is Machine Learning?
+
+Machine learning is the study of the design and development of computer algorithms that improve automatically through experience. We consider two machine learning approaches to the solar flare prediction problem: an ensemble method and a neural network. 
+
+The ensemble method uses multiple learning algorithms to obtain an improved predictive performance compared with what could be obtained from constituent learning algorithms alone (a combination of weak learners makes a strong learner). Ensemble methods commonly include k-nearest neighbors algorithm, random forest, and support vector machine (SVM). This type of modeling allows the user to become more familiar with the data, gain insight into which features are important, and set a ‘sanity check’ baseline for future complex modeling. Results from this work can be incorporated into neural network modeling. A neural network is an interconnected assembly of rudimentary processing units. The processing ability of the network is stored in the inter-unit connection strengths or weights obtained by a process of adaptation to or learning from a set of training patterns.
+
 
 
 
