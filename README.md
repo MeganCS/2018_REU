@@ -18,3 +18,18 @@ Radiation from solar magnetic eruptions has the potential to disrupt telecommuni
 Given the increase in the amount of satellite data, we believe that the McIntosh classification system and the prediction and characterization of the solar magnetic eruptions may be improved by utilizing this large dataset and machine learning methods.
 
 The proposed REU student summer project will strive to automate the McIntosh classification. The exploration of the the trends seen in the dataset using an ensemble machine learning method will produce results that will be ultimately be integrated into neural network modeling. 
+
+## Timeline: TBD
+
+There is a lot to do! Here is a rough idea of what to expect each week.
+
+**Week 1**
+**Week 2**
+**Week 3**
+**Week 4**
+**Week 5**
+**Week 6**
+**Week 7**
+**Week 8**
+**Week 9**
+**Week 10**
