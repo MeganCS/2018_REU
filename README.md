@@ -43,8 +43,16 @@ There is a lot to do! Here is a rough idea of what to expect each week.
 
 **Week 10**
 
-##Background Reading
+## Background Literature
 
 The following papers have some key information related to this project:
 
-[Github pages](https://pages.github.com)
+[McIntosh, P., 1990](https://link.springer.com/article/10.1007%2FBF00158405)
+
+[Colak, T. and Qahwaji,_2007](https://link.springer.com/article/10.1007%2Fs11207-007-9094-3)
+
+[Nishizuka, N. et al., 2017](https://arxiv.org/abs/1611.01791)
+
+
+
+
