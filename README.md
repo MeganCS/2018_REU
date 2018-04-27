@@ -1,3 +1,3 @@
 # 2018_REU
 
-![picture](2018_REU/sdo.png "Description goes here")
+![picture](2018_REU/SDO.png "Description goes here")
