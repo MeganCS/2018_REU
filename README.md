@@ -75,7 +75,7 @@ The Iris example is a classic way to practice the basics. Here are some links to
 
 [Overview of ensemble methods](https://www.dataquest.io/blog/introduction-to-ensembles/)
 
-### Background Information You Will Need to Know
+## Background Information You Will Need to Know
 
 1. [Basic Information on SDO/HMI](http://hmi.stanford.edu)
 
@@ -89,7 +89,7 @@ The Iris example is a classic way to practice the basics. Here are some links to
 
 - Wavelength, usefulness in identifying sunspots/active regions
 
-### Getting set-up with Anaconda and Jupyter Notebook
+## Getting set-up with Anaconda and Jupyter Notebook
 
 1. Download the command-line Installer Python 3.6
 
