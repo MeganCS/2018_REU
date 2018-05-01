@@ -122,9 +122,9 @@ jupyter notebook
 
 Create a new notebook that you will use to organize your work.
 
-### Objectives
+## Objectives
 
-## 1. Find location of McIntosh Classification Information
+### 1. Find location of McIntosh Classification Information
 
 We need to find the archive data in a form that can easily be downloaded and read by Python code. I have found the following, but all have flaws:
 
@@ -132,7 +132,7 @@ We need to find the archive data in a form that can easily be downloaded and rea
 [solarmonitor](https://solarmonitor.org)
 [NOAA](https://www.swpc.noaa.gov/products/solar-region-summary)
 
-## 2. Access SDO/HMI data
+### 2. Access SDO/HMI data
 
 We need to access the SHARP data. Useful resources:
 
@@ -144,6 +144,6 @@ Start with Monica Bobra's reference S1
 
 [Specifying date ranges](http://jsoc.stanford.edu/ajax/RecordSetHelp.html)
 
-## 3. Match HARP active regions to NOAA/McIntosh active regions
+### 3. Match HARP active regions to NOAA/McIntosh active regions
 
-## 4. 
+### 4. 
