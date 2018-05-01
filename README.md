@@ -129,7 +129,9 @@ Create a new notebook that you will use to organize your work.
 We need to find the archive data in a form that can easily be downloaded and read by Python code. I have found the following, but all have flaws:
 
 [ARMaps](http://www.solar.ifa.hawaii.edu/ARMaps/)
+
 [solarmonitor](https://solarmonitor.org)
+
 [NOAA](https://www.swpc.noaa.gov/products/solar-region-summary)
 
 ### 2. Access SDO/HMI data
@@ -143,6 +145,8 @@ Start with Monica Bobra's reference S1
 [Useful tutorial](http://drms.readthedocs.io/en/stable/tutorial.html#basic-usage)
 
 [Specifying date ranges](http://jsoc.stanford.edu/ajax/RecordSetHelp.html)
+
+[Other ways to export data](http://jsoc.stanford.edu/How_toget_data.html)
 
 ### 3. Match HARP active regions to NOAA/McIntosh active regions
 
