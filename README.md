@@ -174,6 +174,8 @@ Start with Monica Bobra's reference S1
 ### 8. Determine parameters for testing dataset
 
 **Start with p-values (describing the penumbra)**
+
+FYI: Sunspots have two parts: the central umbra, which is the darkest part, where the magnetic field is approximately vertical (normal to the Sun's surface) and the surrounding penumbra, which is lighter, where the magnetic field is more inclined.
   
   - Penumbra present?
   - Is the penumbra complete?
