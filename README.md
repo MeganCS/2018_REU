@@ -19,7 +19,7 @@ Given the increase in the amount of satellite data, we believe that the McIntosh
 
 The proposed REU student summer project will strive to automate the McIntosh classification. The exploration of the the trends seen in the dataset using an ensemble machine learning method will produce results that will be ultimately be integrated into neural network modeling. 
 
-**Overall Objective : Automate the McIntosh-Based Classification System of sunspots using HMI/SDO line of sight magnetograms and statistical machine learning methods.**
+**Overall Objective : Automate the McIntosh-Based Classification System of sunspots using HMI/SDO line of sight magnetograms, intensitygrams, and statistical machine learning methods.**
 
 ## Timeline: TBD
 
