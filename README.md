@@ -23,7 +23,7 @@ The proposed REU student summer project will strive to automate the McIntosh cla
 
 There is a lot to do! Here is a rough idea of what to expect each week.
 
-**Week 1**
+**Week 1** Orientation and background reading. Come up with elevator pitch.
 
 **Week 2**
 
@@ -43,7 +43,7 @@ There is a lot to do! Here is a rough idea of what to expect each week.
 
 **Week 10**
 
-## Background Literature
+## Literature
 
 The following papers have some key information related to this project:
 
@@ -73,5 +73,17 @@ The Iris example is a classic way to practice the basics. Here are some links to
 
 [Overview of ensemble methods](https://www.dataquest.io/blog/introduction-to-ensembles/)
 
+## Overall Objective : Automate the McIntosh-Based Classification System of sunspots using HMI/SDO line of sight magnetograms and statistical machine learning methods.
 
+### Background Information You Will Need to Know
+
+1. [Basic Information on SDO/HMI](http://hmi.stanford.edu)
+
+- Date launched, predecessors, instruments on board and what they measure, acronyms, what is being measured by HMI
+
+2. What is a magnetogram? Why are they important to classify active regions?
+
+3. [What are HARPs and SHARPs?](http://jsoc.stanford.edu/doc/data/hmi/sharp/sharp.htm)
+
+### Getting set-up with Anaconda and Jupyter Notebook
 
