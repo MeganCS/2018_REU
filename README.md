@@ -154,10 +154,8 @@ Start with Monica Bobra's reference S1
 
 ### 3. Match HARP active regions to NOAA/McIntosh active regions
 
-### 4. Detect sunspots candidates from intensitygrams
+### 4. Detect sunspots from intensitygrams using threshold value
 
-- Use a standard threshold value
+### 5. Identify sunspots in the HARP active region
 
-### 5. Detect pixels with north magnetic polarity and south magnetic polarity (see Colak et al., 2007)
-
-- Use north and south threshold values
+### 6. 
