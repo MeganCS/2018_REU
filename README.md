@@ -126,7 +126,7 @@ jupyter notebook
 
 Create a new notebook that you will use to organize your work.
 
-## Objectives
+## Objectives (TBD)
 
 ### 1. Find location of McIntosh Classification Information
 
