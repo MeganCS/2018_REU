@@ -154,8 +154,29 @@ Start with Monica Bobra's reference S1
 
 ### 3. Match HARP active regions to NOAA/McIntosh active regions
 
-### 4. Detect sunspots from intensitygrams using threshold value
+### 4. Detect sunspots from intensitygrams using threshold value in the HARP active region
 
-### 5. Identify sunspots in the HARP active region
+### 5. Compare the HARP active region with the NOAA active region (TODO: make certain this is doable)
+  
+  - Geometry
+  
+  - Sunpots
+  
+  If they do not agree then we need to make modifications. 
+  
+### 6. Determine the threshold for north and south magnetic field for HARP active region
 
-### 6. 
+### 7. Set up a training data set and testing data set
+
+- Training: Use the known McIntosh classification for our HARP active regions
+- Testing: Use the remaining active regions
+
+### 8. Determine parameters for testing dataset
+
+  - Threshold of distance between sunspots to be considered uni
+
+** Useful McIntosh Classification Links **
+[McIntosh Classification Info 1](https://www.spaceweatherlive.com/en/help/the-classification-of-sunspots-after-malde)
+[McIntosh Classification Info 2](http://sidc.oma.be/educational/classification.php)
+
+
