@@ -175,8 +175,10 @@ Start with Monica Bobra's reference S1
 
   - Threshold of distance between sunspots to be considered uni
 
-** Useful McIntosh Classification Links **
+**Useful McIntosh Classification Links**
+
 [McIntosh Classification Info 1](https://www.spaceweatherlive.com/en/help/the-classification-of-sunspots-after-malde)
+
 [McIntosh Classification Info 2](http://sidc.oma.be/educational/classification.php)
 
 
