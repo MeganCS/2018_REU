@@ -85,6 +85,10 @@ The Iris example is a classic way to practice the basics. Here are some links to
 
 3. [What are HARPs and SHARPs?](http://jsoc.stanford.edu/doc/data/hmi/sharp/sharp.htm)
 
+4. Difference between magnetogram & intensitygram 
+
+- Wavelength, usefulness in identifying sunspots/active regions
+
 ### Getting set-up with Anaconda and Jupyter Notebook
 
 1. Download the command-line Installer Python 3.6
@@ -134,7 +138,7 @@ We need to find the archive data in a form that can easily be downloaded and rea
 
 [NOAA](https://www.swpc.noaa.gov/products/solar-region-summary)
 
-### 2. Access SDO/HMI data
+### 2. Access SDO/HMI magnetogram and intensitygram data
 
 We need to access the SHARP data. Useful resources:
 
