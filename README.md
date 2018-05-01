@@ -19,13 +19,15 @@ Given the increase in the amount of satellite data, we believe that the McIntosh
 
 The proposed REU student summer project will strive to automate the McIntosh classification. The exploration of the the trends seen in the dataset using an ensemble machine learning method will produce results that will be ultimately be integrated into neural network modeling. 
 
+*Overall Objective : Automate the McIntosh-Based Classification System of sunspots using HMI/SDO line of sight magnetograms and statistical machine learning methods.*
+
 ## Timeline: TBD
 
 There is a lot to do! Here is a rough idea of what to expect each week.
 
-**Week 1** Orientation and background reading. Come up with elevator pitch.
+**Week 1** Orientation. Get computer set up. Begin background reading. 
 
-**Week 2**
+**Week 2** Finish background reading. Come up with elevator pitch.
 
 **Week 3**
 
@@ -73,8 +75,6 @@ The Iris example is a classic way to practice the basics. Here are some links to
 
 [Overview of ensemble methods](https://www.dataquest.io/blog/introduction-to-ensembles/)
 
-## Overall Objective : Automate the McIntosh-Based Classification System of sunspots using HMI/SDO line of sight magnetograms and statistical machine learning methods.
-
 ### Background Information You Will Need to Know
 
 1. [Basic Information on SDO/HMI](http://hmi.stanford.edu)
@@ -86,4 +86,43 @@ The Iris example is a classic way to practice the basics. Here are some links to
 3. [What are HARPs and SHARPs?](http://jsoc.stanford.edu/doc/data/hmi/sharp/sharp.htm)
 
 ### Getting set-up with Anaconda and Jupyter Notebook
+
+1. Download the command-line Installer Python 3.6
+
+https://docs.anaconda.com/anaconda/install/mac-os
+
+https://docs.anaconda.com/anaconda/install/verify-install
+
+•	Enter the following command to update all of the packages within Anaconda:
+conda update –all
+
+•	Check that everything is there by opening another terminal and typing...
+
+which python
+
+...and then....
+
+which conda
+
+...the location of the paths should appear with each of these commands
+
+2. Install numpy, sciPy, scikit-learn, matplotlib, pandas
+
+conda install numpy
+conda install scipy
+conda install scikit-learn
+conda install matplotlib
+conda install pandas
+
+3. [Install Scikit Learn in Python](http://scikit-learn.org/stable/install.html)
+4. [Install drms](https://pypi.org/project/drms/)
+5. Run the following command from the terminal ...
+
+jupyter notebook
+
+Create a new notebook that you will use to organize your work.
+
+### Getting set-up with Anaconda and Jupyter Notebook
+
+
 
