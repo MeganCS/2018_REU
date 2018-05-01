@@ -173,7 +173,12 @@ Start with Monica Bobra's reference S1
 
 ### 8. Determine parameters for testing dataset
 
-  - Threshold of distance between sunspots to be considered uni
+**Start with p-values (describing the penumbra)**
+  
+  - Penumbra present?
+  - Is the penumbra complete?
+  - Is the penumbra large or small? (Decide on threshold)
+  - Is the penumbra symmetric or asymetric?
 
 **Useful McIntosh Classification Links**
 
