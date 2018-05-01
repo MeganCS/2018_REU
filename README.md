@@ -164,14 +164,12 @@ Start with Monica Bobra's reference S1
   
   If they do not agree then we need to make modifications. 
   
-### 6. Determine the threshold for north and south magnetic field for HARP active region
-
-### 7. Set up a training data set and testing data set
+### 6. Set up a training data set and testing data set
 
 - Training: Use the known McIntosh classification for our HARP active regions
 - Testing: Use the remaining active regions
 
-### 8. Determine parameters for testing dataset
+### 7. Determine parameters for testing dataset
 
 **Start with p-values (describing the penumbra)**
 
@@ -187,5 +185,7 @@ FYI: Sunspots have two parts: the central umbra, which is the darkest part, wher
 [McIntosh Classification Info 1](https://www.spaceweatherlive.com/en/help/the-classification-of-sunspots-after-malde)
 
 [McIntosh Classification Info 2](http://sidc.oma.be/educational/classification.php)
+
+### 8. Determine the threshold for north and south magnetic field for HARP active region
 
 
