@@ -75,7 +75,7 @@ The Iris example is a classic way to practice the basics. Here are some links to
 
 [Overview of ensemble methods](https://www.dataquest.io/blog/introduction-to-ensembles/)
 
-## Background Information You Will Need to Know
+## Background Information
 
 1. [Basic Information on SDO/HMI](http://hmi.stanford.edu)
 
