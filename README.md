@@ -27,11 +27,11 @@ There is a lot to do! Here is a rough idea of what to expect each week.
 
 **Week 1** Orientation. Get computer set up. Begin background reading. 
 
-**Week 2** Finish background reading. Come up with elevator pitch.
+**Week 2** Finish background reading. Come up with elevator pitch. Finish Objective #1.
 
-**Week 3**
+**Week 3** Finish Objective #2 and Objective #3.
 
-**Week 4**
+**Week 4** 
 
 **Week 5**
 
@@ -122,7 +122,28 @@ jupyter notebook
 
 Create a new notebook that you will use to organize your work.
 
-### Getting set-up with Anaconda and Jupyter Notebook
+### Objectives
 
+## 1. Find location of McIntosh Classification Information
 
+We need to find the archive data in a form that can easily be downloaded and read by Python code. I have found the following, but all have flaws:
 
+[ARMaps](http://www.solar.ifa.hawaii.edu/ARMaps/)
+[solarmonitor](https://solarmonitor.org)
+[NOAA](https://www.swpc.noaa.gov/products/solar-region-summary)
+
+## 2. Access SDO/HMI data
+
+We need to access the SHARP data. Useful resources:
+
+Start with Monica Bobra's reference S1
+
+[Bobra: HMI Science Nuggets](http://hmi.stanford.edu/hminuggets/?p=1428)
+
+[Useful tutorial](http://drms.readthedocs.io/en/stable/tutorial.html#basic-usage)
+
+[Specifying date ranges](http://jsoc.stanford.edu/ajax/RecordSetHelp.html)
+
+## 3. Match HARP active regions to NOAA/McIntosh active regions
+
+## 4. 
