@@ -175,10 +175,25 @@ Start with Monica Bobra's reference S1
 
 FYI: Sunspots have two parts: the central umbra, which is the darkest part, where the magnetic field is approximately vertical (normal to the Sun's surface) and the surrounding penumbra, which is lighter, where the magnetic field is more inclined.
   
+  **These are the questions we are asking**
+  
   - Penumbra present?
+  
   - Is the penumbra complete?
+  
   - Is the penumbra large or small? (Decide on threshold)
+  
   - Is the penumbra symmetric or asymetric?
+  
+  **Similar to the IRIS example we can use:**
+  
+  - Penumbra presence (0 or 1)
+  
+  - Penumbra length
+  
+  - Penumbra width
+  
+  - Penumbra completeness (0 or 1)
 
 **Useful McIntosh Classification Links**
 
