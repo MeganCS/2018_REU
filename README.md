@@ -25,25 +25,25 @@ The proposed REU student summer project will strive to automate the McIntosh cla
 
 There is a lot to do! Here is a rough idea of what to expect each week.
 
-**Week 1** Orientation. Get computer set up. Begin background reading. 
+**Week 1 (5/29/18 - 6/2/18)** Orientation. Get computer set up. Begin background reading. 
 
-**Week 2** Finish background reading. Come up with elevator pitch. Finish Objective #1.
+**Week 2 (6/3/18 - 6/9/18)** Finish background reading. Come up with elevator pitch. Finish Objective #1.
 
-**Week 3** Finish Objective #2 and Objective #3.
+**Week 3 (6/10/18 - 6/16/18)** Finish Objective #2 and Objective #3.
 
-**Week 4** 
+**Week 4 (6/17/18 - 6/23/18)** 
 
-**Week 5**
+**Week 5 (6/24/18 - 6/30/18)**
 
-**Week 6**
+**Week 6 (7/1/18 - 7/7/18)**
 
-**Week 7**
+**Week 7 (7/8/18 - 7/14/18)**
 
-**Week 8**
+**Week 8 (7/15/18 - 7/21/18)**
 
-**Week 9**
+**Week 9 (7/22/18 - 7/28/18)** Final abstract due by the end of the week.
 
-**Week 10**
+**Week 10 (7/29/18 - 8/3/18)** Poster presentation/final talk.
 
 ## Literature
 
@@ -51,7 +51,7 @@ The following papers have some key information related to this project:
 
 [McIntosh, P., 1990](https://link.springer.com/article/10.1007%2FBF00158405)
 
-[Colak, T. and Qahwaji,_2007](https://link.springer.com/article/10.1007%2Fs11207-007-9094-3)
+[Colak, T. and Qahwaji, 2007](https://link.springer.com/article/10.1007%2Fs11207-007-9094-3)
 
 [Nishizuka, N. et al., 2017](https://arxiv.org/abs/1611.01791)
 
@@ -221,4 +221,4 @@ FYI: Sunspots have two parts: the central umbra, which is the darkest part, wher
 
 ### 9. Perform an ensemble
 
-
+### 10. Write a summary of why your method of machine learning to automate the McIntosh Classification System is an improvement over what has been done by Colak, T. and Qahwaji,_2007_ and how they differ.
