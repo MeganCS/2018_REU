@@ -209,6 +209,8 @@ FYI: Sunspots have two parts: the central umbra, which is the darkest part, wher
 
 - SVM
 
-### 9. Determine the threshold for north and south magnetic field for HARP active region
+### 9. Perform an ensemble
+
+### 10. Determine the threshold for north and south magnetic field for HARP active region
 
 
