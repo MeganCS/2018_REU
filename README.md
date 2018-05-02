@@ -181,7 +181,7 @@ FYI: Sunspots have two parts: the central umbra, which is the darkest part, wher
   
   - Is the penumbra complete?
   
-  - Is the penumbra large or small? (Decide on threshold)
+  - Is the penumbra large or small? 
   
   - Is the penumbra symmetric or asymetric?
   
@@ -201,6 +201,14 @@ FYI: Sunspots have two parts: the central umbra, which is the darkest part, wher
 
 [McIntosh Classification Info 2](http://sidc.oma.be/educational/classification.php)
 
-### 8. Determine the threshold for north and south magnetic field for HARP active region
+### 8. Perform the three machine learning methods
+
+- kNN
+
+- Random forest
+
+- SVM
+
+### 9. Determine the threshold for north and south magnetic field for HARP active region
 
 
