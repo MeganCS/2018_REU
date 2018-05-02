@@ -158,6 +158,8 @@ Start with Monica Bobra's reference S1
 
 ![alt text](http://jsoc.stanford.edu/doc/data/hmi/harp/harp_definitive/2012/03/06/harp.2012.03.06_23:00:00_TAI.png)
 
+*Note that there will likely be more HARPs/SHARPs than NOAA active regions. Use only the HARPs/SHARPs that have a NOAA match. 
+
 ### 4. Detect sunspots from intensitygrams using threshold value in the HARP active region
 
 ### 5. Compare the HARP active region with the NOAA active region
