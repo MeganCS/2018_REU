@@ -81,11 +81,9 @@ The Iris example is a classic way to practice the basics. Here are some links to
 
 - Date launched, predecessors, instruments on board and what they measure, acronyms, what is being measured by HMI
 
-2. What is a magnetogram? Why are they important to classify active regions?
+2. [What are HARPs and SHARPs?](http://jsoc.stanford.edu/doc/data/hmi/sharp/sharp.htm)
 
-3. [What are HARPs and SHARPs?](http://jsoc.stanford.edu/doc/data/hmi/sharp/sharp.htm)
-
-4. Difference between magnetogram & intensitygram 
+3. Difference between magnetogram & intensitygram 
 
 - Wavelength, usefulness in identifying sunspots/active regions
 
@@ -221,4 +219,4 @@ FYI: Sunspots have two parts: the central umbra, which is the darkest part, wher
 
 ### 9. Perform an ensemble
 
-### 10. Write a summary of why your method of machine learning to automate the McIntosh Classification System is an improvement over what has been done by Colak, T. and Qahwaji,_2007_ and how they differ.
+### 10. Write a summary of why your method of machine learning to automate the McIntosh Classification System is an improvement over what has been done by Colak, T. and Qahwaji, 2007 and how they differ.
