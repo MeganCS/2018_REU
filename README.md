@@ -126,7 +126,7 @@ jupyter notebook
 
 Create a new notebook that you will use to organize your work.
 
-## Objectives (TBD)
+## Objectives
 
 ### 1. Find location of McIntosh Classification Information
 
@@ -137,6 +137,8 @@ We need to find the archive data in a form that can easily be downloaded and rea
 [solarmonitor](https://solarmonitor.org)
 
 [NOAA](https://www.swpc.noaa.gov/products/solar-region-summary)
+
+*Note that the McIntosh Classification is performed every 24 hr whereas the SDO/HMI measurements are taken every 45 s. We need to decide on a set time that we will use for the SDO/HMI.  
 
 ### 2. Access SDO/HMI magnetogram and intensitygram data
 
@@ -154,13 +156,19 @@ Start with Monica Bobra's reference S1
 
 ### 3. Match HARP active regions to NOAA/McIntosh active regions
 
+![alt text](http://jsoc.stanford.edu/doc/data/hmi/harp/harp_definitive/2012/03/06/harp.2012.03.06_23:00:00_TAI.png)
+
 ### 4. Detect sunspots from intensitygrams using threshold value in the HARP active region
 
-### 5. Compare the HARP active region with the NOAA active region (TODO: make certain this is doable)
+### 5. Compare the HARP active region with the NOAA active region
   
-  - Geometry
+  - Location
   
-  - Sunpots
+  - Number of sunpots
+  
+  - Area of sunspots
+  
+  - Length of sunspot group
   
   If they do not agree then we need to make modifications. 
   
