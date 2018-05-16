@@ -33,7 +33,7 @@ There is a lot to do! Here is a rough idea of what to expect each week.
 
 **Week 4 (6/17/18 - 6/23/18)** 
 
-**Week 5 (6/24/18 - 6/30/18)**
+**Week 5 (6/24/18 - 6/30/18)** Mid-program 5 min talk.
 
 **Week 6 (7/1/18 - 7/7/18)**
 
