@@ -17,6 +17,8 @@ Radiation from solar magnetic eruptions has the potential to disrupt telecommuni
 
 Given the increase in the amount of satellite data, we believe that the McIntosh classification system and the prediction and characterization of the solar magnetic eruptions may be improved by utilizing this large dataset and machine learning methods.
 
+The Helioseismic and Magnetic Imager (HMI) instrument was designed to measure the Doppler shift, line-of- sight magnetic field, intensity, and vector magnetic field at the solar photosphere using the 6173 Å Fe I absorption line.
+
 The proposed REU student summer project will strive to automate the McIntosh classification. The exploration of the trends seen in the dataset using an ensemble machine learning method will produce results that will be ultimately be integrated into neural network modeling. 
 
 **Overall Objective : Automate the McIntosh-Based Classification System of sunspots using HMI/SDO line of sight magnetograms, intensitygrams, and statistical machine learning methods.**
