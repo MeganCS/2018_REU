@@ -83,7 +83,7 @@ The Iris example is a classic way to practice the basics. Here are some links to
 
 2. [What are HARPs and SHARPs?](http://jsoc.stanford.edu/doc/data/hmi/sharp/sharp.htm)
 
-3. Difference between magnetogram & intensitygram 
+3. [Difference between magnetogram & intensitygram](http://solar-center.stanford.edu/solar-images/about-images.html)
 
 - Wavelength, usefulness in identifying sunspots/active regions
 
