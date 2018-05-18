@@ -162,6 +162,8 @@ Start with Monica Bobra's reference S1
 
 ### 4. Detect sunspots from intensitygrams using threshold value in the HARP active region
 
+[OpenCV information](https://www.pyimagesearch.com/2016/03/28/measuring-size-of-objects-in-an-image-with-opencv/)
+
 ### 5. Compare the HARP active region with the NOAA active region
   
   - Location
