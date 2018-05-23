@@ -158,6 +158,8 @@ Start with Monica Bobra's reference S1
 
 [Other ways to export data](http://jsoc.stanford.edu/How_toget_data.html)
 
+[JSOC Data types](http://jsoc.stanford.edu/JsocSeries_DataProducts_map.html)
+
 ### 3. Match HARP active regions to NOAA/McIntosh active regions
 
 ![alt text](http://jsoc.stanford.edu/doc/data/hmi/harp/harp_definitive/2012/03/06/harp.2012.03.06_23:00:00_TAI.png)
