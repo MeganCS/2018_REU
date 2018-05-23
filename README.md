@@ -126,7 +126,9 @@ conda install pandas
 
 jupyter notebook
 
-Create a new notebook that you will use to organize your work.
+Create a new notebook that you will use for brainstorming.
+
+6. [Install pycharm (student account)](https://www.jetbrains.com/student/)
 
 ## Objectives
 
