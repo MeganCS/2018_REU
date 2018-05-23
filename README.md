@@ -160,6 +160,8 @@ Start with Monica Bobra's reference S1
 
 [JSOC Data types](http://jsoc.stanford.edu/JsocSeries_DataProducts_map.html)
 
+*Note that each magnetogram takes ~ 2MB. There may be 10 active regions (SHARPs) at a given time. Space required is = 2 MB x 365 x (2018 - 2010) x 10 = 60 GB. 
+
 ### 3. Match HARP active regions to NOAA/McIntosh active regions
 
 ![alt text](http://jsoc.stanford.edu/doc/data/hmi/harp/harp_definitive/2012/03/06/harp.2012.03.06_23:00:00_TAI.png)
